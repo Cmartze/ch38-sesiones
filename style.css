@@ -1,0 +1,13 @@
+/* hoja de estilo personalizada */
+/* css: cascading stle sheet */
+
+/* selector de etiqueta */ 
+body {
+ background-color: #A1CA9A; /*cambiar fondo*/
+ color:#3F4A3C;
+ font-family:Arial, Helvetica, sans-serif; /*cambiar fuente */
+}
+
+main {
+    text-align: center;
+}
