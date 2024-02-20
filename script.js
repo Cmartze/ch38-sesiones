@@ -1,4 +1,4 @@
-consol.log("Hola ch38"); 
+console.log("Hola ch38"); 
 
 //* funcion que envie un saludo con alert.
 
